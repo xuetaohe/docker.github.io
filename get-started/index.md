@@ -88,7 +88,7 @@ Containerization is increasingly popular because containers are:
 ![Containers are portable](images/laurel-docker-containers2019.png){:width="100%"}
 
 ### Images and containers
-
+镜像和容器
 Fundamentally, a container is nothing but a running process,
 with some added encapsulation features applied to it in order to keep it isolated from the host
 and from other containers.
